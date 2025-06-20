@@ -37,9 +37,11 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_bloc: ^9.1.1
+  freezed_annotation: ^2.4.4
   get_it: ^8.0.3
   hive: ^2.2.3
   hive_flutter: ^1.1.0
+  injectable: ^2.5.0
   intl: ^0.20.2
   auto_route: ^9.0.0
   uuid: ^4.5.1
@@ -60,8 +62,6 @@ dev_dependencies:
   json_serializable: ^6.9.0
   auto_route_generator: ^9.0.0
   freezed: ^2.5.7
-  freezed_annotation: ^2.4.4
-  injectable: ^2.5.0
   injectable_generator: ^2.6.2
   json_annotation: ^4.9.0
 
